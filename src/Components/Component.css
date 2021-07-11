@@ -1,0 +1,10 @@
+#btnValider {
+    position: fixed;
+    right: 100px;
+    bottom: 0;
+  }
+#btnAnnuler{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+  }
